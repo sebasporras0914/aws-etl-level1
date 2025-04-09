@@ -6,7 +6,8 @@ En este proyecto se demuestra el uso de servicios de AWS como Athena, S3, Glue, 
 
 ## Arquitectura
 
-![alt text](<arquitectura (1).png>)
+![alt text](<arquitectura.png>)
+
 ## Desarrollo
 
 ### S3: crear buckets origen y destino
