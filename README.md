@@ -10,6 +10,10 @@ En este proyecto se demuestra el uso de servicios de AWS como Athena, S3, Glue, 
 
 ## Desarrollo
 
+### IAM: Crear rol
+
+iniciando se crear un roll para que awsglue tenga todos los permisos de poder conectarse con s3
+
 ### S3: crear buckets origen y destino
 
 Amazon Simple Storage Service (Amazon S3) es un servicio de almacenamiento de objetos ofrecido por Amazon Web Services (AWS). Se trata de un servicio altamente escalable, seguro y duradero que permite almacenar y recuperar cualquier cantidad de datos de cualquier tipo.
